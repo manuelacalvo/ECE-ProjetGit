@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1505739780 source:c:\users\calvo manuela\desktop\cours\ing2\informatique\semestre 1\tp 2\tp.2 exo 200\main.cpp
+	<iostream>
+	"TP.2 exo 200.h"
+	"TP.2 exo 200 prog.cbp"
+
+1505740137 c:\users\calvo manuela\desktop\cours\ing2\informatique\semestre 1\tp 2\tp.2 exo 200\tp.2 exo 200.h
+
+1505739658 c:\users\calvo manuela\desktop\cours\ing2\informatique\semestre 1\tp 2\tp.2 exo 200\tp.2 exo 200 prog.cbp
+	<iostream>
+	"TP.2 exo 200.h"
+

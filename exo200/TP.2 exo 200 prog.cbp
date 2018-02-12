@@ -1,0 +1,16 @@
+#include <iostream>
+#include "TP.2 exo 200.h"
+
+
+void input()
+{
+    int entier=0;
+    float reel =0;
+
+    std::cout << "Entrer entier" << std::endl;
+    std::cin >> entier;
+    std::cout << "Entrer reel" << std::endl;
+    std::cin >> reel;
+
+    std::cout << "vous avez saisi " <<entier << " comme entier et " << reel <<" comme reel"<< std::endl;
+}
