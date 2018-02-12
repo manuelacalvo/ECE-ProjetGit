@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505925943 source:c:\users\calvo manuela\desktop\cours\ing2\informatique\semestre 1\tp 2\tp.2 exo 201\exo201\exo201\exo201\fonctions.cpp
+	<iostream>
+	"foncitons.h"
+	<string>
+
+1505925943 source:c:\users\calvo manuela\desktop\cours\ing2\informatique\semestre 1\tp 2\tp.2 exo 201\exo201\exo201\exo201\main.cpp
+	<iostream>
+	"foncitons.h"
+	<string>
+
+1505907553 c:\users\calvo manuela\desktop\cours\ing2\informatique\semestre 1\tp 2\tp.2 exo 201\exo201\exo201\exo201\foncitons.h
+
