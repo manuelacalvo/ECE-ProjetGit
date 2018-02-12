@@ -1,20 +1,9 @@
 #include <iostream>
-#include "foncitons.h"
-#include <string>
 
-
+using namespace std;
 
 int main()
 {
-    ///déclaration des variables
-    //on initialise un login
-    std::string login = "ece";
-    //on initialise un mot de passe
-    int motpass = 1234;
-
-    //On appelle la fonction login
-    input(login, motpass);
-
-    //fin du programme
+    cout << "Hello world!" << endl;
     return 0;
 }
